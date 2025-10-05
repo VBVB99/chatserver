@@ -1,0 +1,9 @@
+D:\ChatServer-master\Server C_Sharp\bin\Debug\Server C_Sharp.exe.config
+D:\ChatServer-master\Server C_Sharp\bin\Debug\Server C_Sharp.exe
+D:\ChatServer-master\Server C_Sharp\bin\Debug\Server C_Sharp.pdb
+D:\ChatServer-master\Server C_Sharp\bin\Debug\MySql.Data.dll
+D:\ChatServer-master\Server C_Sharp\bin\Debug\Ubiety.Dns.Core.dll
+D:\ChatServer-master\Server C_Sharp\obj\Debug\Server C_Sharp.csproj.AssemblyReference.cache
+D:\ChatServer-master\Server C_Sharp\obj\Debug\Server C_Sharp.csproj.CoreCompileInputs.cache
+D:\ChatServer-master\Server C_Sharp\obj\Debug\Server C_Sharp.exe
+D:\ChatServer-master\Server C_Sharp\obj\Debug\Server C_Sharp.pdb
